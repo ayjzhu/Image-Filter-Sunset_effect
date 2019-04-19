@@ -6,5 +6,10 @@ This program will process an image and add color filter to establish a "sunset e
 ## Requirement/Dependency
 - ezgraphics
 
+## Notes
+modifying the RGB parameters will have different filter effects!
+|Effect|RGB|
+|Sunset|red x 1.30|
+
 ## Ouput
 see attachment.
