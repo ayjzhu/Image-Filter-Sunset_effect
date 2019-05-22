@@ -13,5 +13,9 @@ Modifying the RGB parameters will have different filter effects!
 |---|---|
 |Sunset|red x 1.30|
 
+## Input
+The input of the image in '.gif' format.
+
 ## Ouput
-See attachment. (Upcoming...)
+*See attachment. (Upcoming...)*
+The output of the image type would be a `.gif` file.
