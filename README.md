@@ -15,7 +15,6 @@ Modifying the RGB parameters will have different filter effects!
 |Effect|RGB|
 |---|---|
 |Sunset|red x 1.30|
-<br>
 
 ## Input
 The input of the image in '.gif' format.
