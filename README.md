@@ -19,3 +19,6 @@ The input of the image in '.gif' format.
 ## Ouput
 *See attachment. (Upcoming)*
 <br/>The output of the image type would be a `.gif` file.
+
+## Status
+*The project is outdated and the code may be not working properly*
